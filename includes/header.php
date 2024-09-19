@@ -10,10 +10,10 @@
                   <a href="institucional.php">Institucional</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                  <a href="catalogocolecionador.html">Diretoria</a>
+                  <a href="Diretoria.php">Diretoria</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                  <a  href="sobre.html">Serviços</a>
+                  <a  href="Servicos.php">Serviços</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
                   <a  href="contatos.html">Supermercado</a>
