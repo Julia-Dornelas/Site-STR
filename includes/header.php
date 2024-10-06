@@ -1,7 +1,7 @@
 <header>
         <div class="pos-f-t border-bottom border-success ">
           <div class="collapse" id="navbarToggleExternalContent">
-            <div class="p-4" style="background-color: #E7FEEA;" >
+            <div class="p-4 font-weight-bold" style="background-color: #E7FEEA;" >
               <ul class="list-group list-group-flush">
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
                   <a href="index.php">Home</a>
@@ -10,19 +10,19 @@
                   <a href="institucional.php">Institucional</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                  <a href="Diretoria.php">Diretoria</a>
+                  <a href="diretoria.php">Diretoria</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                  <a  href="Servicos.php">Serviços</a>
+                  <a  href="servicos.php">Serviços</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                  <a  href="contatos.html">Supermercado</a>
+                  <a  href="supermercado.html">Supermercado</a>
                 </li>
                 <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                    <a  href="contatos.html">Emissão de boletos</a>
+                    <a  href="boleto.php">Emissão de boletos</a>
                 </li>
                  <li class="list-group-item text-white " style="background-color: #E7FEEA;">
-                    <a  href="contatos.html">Links Uteis</a>
+                    <a  href="links.php">Links Uteis</a>
                 </li>
               </ul>
             </div>

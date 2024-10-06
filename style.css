@@ -1,3 +1,12 @@
 .progress{
     border-radius: 0;
 }
+
+a{
+    color: black;
+}
+
+a:hover {
+    color: #0e7027;
+    text-decoration: none;
+}
